@@ -77,3 +77,7 @@ extension ViewController: UITableViewDelegate {
 
 // изменения такие
 // еще здесь
+
+
+
+var name = "kirill"
