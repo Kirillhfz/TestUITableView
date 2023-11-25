@@ -81,3 +81,5 @@ extension ViewController: UITableViewDelegate {
 
 
 var name = "kirill"
+
+var numbers = 123
